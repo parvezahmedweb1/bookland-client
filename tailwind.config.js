@@ -5,11 +5,14 @@ module.exports = {
     container: {
       padding: {
         DEFAULT: "1rem",
-        lg: "2.5rem",
+        lg: "2rem",
       },
     },
     extend: {
-      colors: {},
+      colors: {
+        btn: "#eaa451",
+        main: "#060340",
+      },
     },
   },
   plugins: [],
