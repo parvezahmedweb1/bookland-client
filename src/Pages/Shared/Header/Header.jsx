@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "../../../assets/download.png";
 import menuItems from "../../../Components/MenuItems";
 import PrimaryBtn from "../../../Components/PrimaryBtn";
@@ -8,7 +9,9 @@ const Header = () => {
       <div className="container lg:container sm:container mx-auto flex justify-between items-center">
         {/* left */}
         <div>
-          <img src={logo} width={140} alt="" />
+          <Link to="/">
+            <img src={logo} width={140} alt="" />
+          </Link>
         </div>
         {/* center */}
         <ul className="lg:flex hidden items-center space-x-6">{menuItems}</ul>

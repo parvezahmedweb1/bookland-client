@@ -1,0 +1,32 @@
+[
+  {
+    "categoriesId": "1001",
+    "categoryName": "Programming",
+    "categoryImg": "https://i.ibb.co/M9hvVhF/category-1.png"
+  },
+  {
+    "categoriesId": "1002",
+    "categoryName": "Motivation",
+    "categoryImg": "https://i.ibb.co/Fs6dKkf/category-2.png"
+  },
+  {
+    "categoriesId": "1003",
+    "categoryName": "Adventure",
+    "categoryImg": "https://i.ibb.co/X4c74GG/category-3.png"
+  },
+  {
+    "categoriesId": "1004",
+    "categoryName": "Life Story",
+    "categoryImg": "https://i.ibb.co/8rdqn7B/category-4.png"
+  },
+  {
+    "categoriesId": "1005",
+    "categoryName": "Romantic",
+    "categoryImg": "https://i.ibb.co/qJDJ1Rs/category-5.png"
+  },
+  {
+    "categoriesId": "1006",
+    "categoryName": "Business",
+    "categoryImg": "https://i.ibb.co/1zs62rQ/category-6.png"
+  }
+]
